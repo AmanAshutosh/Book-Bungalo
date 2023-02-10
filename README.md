@@ -3,8 +3,12 @@
 A modern and user-friendly online book store website built using HTML, CSS, JavaScript, FontAwesome, and Swiper.
 The website is designed to provide a seamless and enjoyable browsing experience for customers to find and purchase their desired books.
 
-# Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/g9JaAAnCmv4/0.jpg)](http://www.youtube.com/watch?v=g9JaAAnCmv4"Book Bunglo")
+# Sample Video
+
+Uploading Book Bunglow  Codelessness Tv.mp4…
+
+
+
 
 # Features
 Clean and modern design that provides an optimal user experience
