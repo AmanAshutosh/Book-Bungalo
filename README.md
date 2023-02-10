@@ -1,14 +1,10 @@
 # Book-Bungalo
 "Find Happiness in turning Pages"
 A modern and user-friendly online book store website built using HTML, CSS, JavaScript, FontAwesome, and Swiper.
-The website is designed to provide a seamless and enjoyable browsing experience for customers to find and purchase their desired books.
+The website is designed to provide a seamless and enjoyable browsing experience for customers to find and purchase their desired books.\
 
 # Sample Video
-
-Uploading Book Bunglow  Codelessness Tv.mp4…
-
-
-
+![(18) Book Bunglow __ Codelessness Tv __ Online Book Store - YouTube - Google Chrome 2_10_2023 10_31_40 PM](https://user-images.githubusercontent.com/69684043/218153836-55ad7e57-d4db-4f9a-a8e0-dd757b6d599d.png)(https://youtu.be/g9JaAAnCmv4 "Book Bunglow")
 
 # Features
 Clean and modern design that provides an optimal user experience
