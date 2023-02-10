@@ -6,9 +6,9 @@ The website is designed to provide a seamless and enjoyable browsing experience 
 # Check out this sample video on YouTube:
 ![Red and White Pixel Gamer YouTube Banner](https://user-images.githubusercontent.com/69684043/218160286-4b21a513-2ecd-403b-a144-446ce8548796.png)
 
-[Check out this sample video](https://www.youtube.com/watch?v=g9JaAAnCmv4)
+-- [Check out this sample video](https://www.youtube.com/watch?v=g9JaAAnCmv4)
 
-[![Check out this sample video](https://img.youtube.com/vi/g9JaAAnCmv4/0.jpg)](https://www.youtube.com/watch?v=g9JaAAnCmv4)
+
 
 # Features
 Clean and modern design that provides an optimal user experience
