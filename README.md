@@ -4,9 +4,7 @@ A modern and user-friendly online book store website built using HTML, CSS, Java
 The website is designed to provide a seamless and enjoyable browsing experience for customers to find and purchase their desired books.\
 
 # Sample Video
-![]()()
-
-![(18) Book Bunglow __ Codelessness Tv __ Online Book Store - YouTube - Google Chrome 2_10_2023 10_31_40 PM]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://user-images.githubusercontent.com/69684043/218153836-55ad7e57-d4db-4f9a-a8e0-dd757b6d599d.png)][Title"](https://www.youtube.com/watch?v=g9JaAAnCmv4&list=PLoIlrf_DdlWfconWQ92-v9yp9Xt3UnWxX&index=1&ab_channel=CODELESSNESSTV "Book Bunglow")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9JaAAnCmv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Features
 Clean and modern design that provides an optimal user experience
