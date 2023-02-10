@@ -4,7 +4,11 @@ A modern and user-friendly online book store website built using HTML, CSS, Java
 The website is designed to provide a seamless and enjoyable browsing experience for customers to find and purchase their desired books.\
 
 # Sample Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9JaAAnCmv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=g9JaAAnCmv4&list=PLoIlrf_DdlWfconWQ92-v9yp9Xt3UnWxX&index=1&ab_channel=CODELESSNESSTV" target="_blank">
+  <img src="http://img.youtube.com/vi/g9JaAAnCmv4&list=PLoIlrf_DdlWfconWQ92-v9yp9Xt3UnWxX&index=1&ab_channel=CODELESSNESSTV/0.jpg" alt="Video Title" width="240" height="180" border="10"/>
+</a>
+
+
 
 # Features
 Clean and modern design that provides an optimal user experience
