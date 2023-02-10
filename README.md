@@ -4,7 +4,8 @@ A modern and user-friendly online book store website built using HTML, CSS, Java
 The website is designed to provide a seamless and enjoyable browsing experience for customers to find and purchase their desired books.\
 
 # Check out this sample video on YouTube:
-![Red and White Pixel Gamer YouTube Banner](https://user-images.githubusercontent.com/69684043/218160286-4b21a513-2ecd-403b-a144-446ce8548796.png)
+![Book Bunglo](https://user-images.githubusercontent.com/69684043/218165026-295bd60d-045a-433f-9cda-c34f02c13702.gif)
+
 
 [Check out this sample video](https://www.youtube.com/watch?v=g9JaAAnCmv4)
 
