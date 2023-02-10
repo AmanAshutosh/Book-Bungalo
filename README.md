@@ -20,8 +20,8 @@ This website was built with the aim of providing a seamless and enjoyable online
 If you have any questions or feedback, feel free to open an issue on GitHub.
 # Stay Connected
 To stay updated with the latest developments and future updates of the Book-Store-Website, you can follow me on the following social media platforms:
-
-<a href="https://twitter.com/codelessness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codelessness" height="30" width="40" /></a>
+<a herf="https://twitter.com/Codelessness" target="blank"><img align="center" src="http://i.imgur.com/wWzX9uB.png"height="30" width="40" /></a>
+http://i.imgur.com/wWzX9uB.png
 
 <a href="https://linkedin.com/in/codelessness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutoshaman007" height="30" width="40" /></a>
 
