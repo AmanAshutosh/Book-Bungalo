@@ -33,4 +33,6 @@ To stay updated with the latest developments and future updates of the Book-Stor
 
 - Twitter : @Codelessness
 - Linkedin: @codelessness
+- ashutoshaman@duck.com
+
 
